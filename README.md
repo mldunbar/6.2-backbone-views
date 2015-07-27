@@ -1,3 +1,9 @@
+#Views
+
+
+I worked on this during week 6 of The Iron Yard to figure out Backbone.
+
+
 # Prepare your scaffolding
 
 Clone this repo and run the setup script:
